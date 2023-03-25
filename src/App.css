@@ -80,7 +80,6 @@ header p {
   color: #fff;
 }
 .meme .img-div {
-  background-color: red;
   position: relative;
   display: grid;
   place-items: center;
